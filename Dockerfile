@@ -19,5 +19,5 @@ COPY --from=builder /app/build/libs/*.jar discografia.jar
 
 EXPOSE 443
 
-CMD ["java", "-rar", "discografia.jar" ]
+CMD ["java", "-jar", "discografia.jar" ]
 
