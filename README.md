@@ -1,2 +1,1 @@
-# iplacex-discografia-api
- API REST Spring discografia
+API REST Spring para administración de discografías favoritas de empleados de IPLACEX
